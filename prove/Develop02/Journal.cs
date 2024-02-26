@@ -1,6 +1,3 @@
-using System.IO.Enumeration;
-using System.Reflection.Metadata;
-
 public class Journal
 {
     public List<Entry> entries;
